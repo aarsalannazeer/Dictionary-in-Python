@@ -1,0 +1,1 @@
+The file namely original is the .json file which contains all the keys and words you need to search in dictionary.
